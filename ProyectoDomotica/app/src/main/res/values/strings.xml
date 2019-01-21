@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">DomUntref</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_portada" translatable="false">PortadaActivity</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <string name="title_activity_registro" translatable="false">RegistroActivity</string>
+    <string name="title_activity_artefactos">Artefactos</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="title_activity_estadisticas">Estadisticas</string>
+
+    <string name="titulo_dialogo_encendido">Bluetooth deshabilitado</string>
+    <string name="texto_dialogo_encendido">La aplicación requiere que el Bluetooth esté habilitado.\n¿Desea habilitar el Bluetooth?</string>
+    <string name="salir">Salir</string>
+    <string name="activar">Activar</string>
+
+    <string name="titulo_dialogo_salir">Saliendo…</string>
+    <string name="texto_dialogo_salir">¿Desea deshabilitar el bluetooth al salir?</string>
+    <string name="salir_y_desactivar">Salir y deshabilitar</string>
+
+    <string name="estableciendo_conexion">Estableciendo conexión…</string>
+    <string name="conexion_no_establecida">No se pudo establecer la conexión</string>
+    <string name="verificar_conexion">No se pueden realizar cambios. Verifique su conexión y vuelva a intentarlo</string>
+    <string name="no_conectado">NO CONECTADO</string>
+    <string name="entendido" translatable="false">Ok</string>
+    <string name="proximamente">PROXIMAMENTE</string>
+    <string name="presione_nuevamente">Presione nuevamente para salir</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nueva_habitacion">Nueva Habitacion</string>
+    <string name="nombre_habitacion">Escriba el nombre de la habitacion</string>
+    <string name="nuevo_artefacto">Nuevo Artefacto</string>
+    <string name="nombre_vacio">Ingrese un nombre</string>
+    <string name="nombre_artefacto">Escriba el nombre del artefacto</string>
+    <string name="habitacion_existente">Ya existe una habitación con ese nombre</string>
+    <string name="artefacto_existente">Ya existe un artefacto con ese nombre</string>
+    <string name="nuevo_nombre_habitacion">Escriba el nuevo nombre de la habitación</string>
+
+    <string name="idioma">Idioma</string>
+    <string name="vaciar_habitacion">- Vaciar Datos</string>
+    <string name="domotica">- Domótica</string>
+    <string name="informacion">Información</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="configuracion">Configuración</string>
+    <string name="mensaje_domotica">Se llama domótica al conjunto de sistemas capaces de automatizar una vivienda, aportando servicios de gestión energética, seguridad, bienestar y comunicación, y que pueden estar integrados por medio de redes interiores y exteriores de comunicación, cableadas o inalámbricas, y cuyo control goza de cierta ubicuidad, desde dentro y fuera del hogar. Se podría definir como la integración de la tecnología en el diseño inteligente de un recinto cerrado.</string>
+    <string name="datos_bd">Los datos han sido eliminados correctamente</string>
+    <string name="eliminar_datos_bd">Eliminando datos…</string>
+    <string name="mensaje_confirmacion">¿Está seguro que quiere eliminar todos los datos?</string>
+    <string name="eliminar_habitacion_titulo">Eliminando habitación…</string>
+    <string name="eliminar_habitacion_mensaje">¿Está seguro que desea eliminar esta habitación?</string>
+    <string name="eliminar_artefacto_titulo">Eliminando artefacto…</string>
+    <string name="eliminar_artefacto_mensaje">¿Está seguro que desea eliminar éste artefacto?</string>
+    <string name="editar">Cambiar Nombre</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="apagar_todo">Apagar todo</string>
+    <string name="opcion">Opciones</string>
+    <string name="nuevo_nombre_artefacto">Escriba el nuevo nombre del artefacto</string>
+    <string name="mensaje_showcase_habitacion">Ingresa a la habitación creada y agrega nuevos artefactos.\nMantené presionado en una habitación para obtener opciones de la misma.</string>
+    <string name="habitacion">Habitación</string>
+    <string name="agregar_habitacion">Agregar Habitación</string>
+    <string name="mensaje_agregar_habitacion_showcase">Agrega nuevas habitaciones adaptando DomUntref a tus necesidades</string>
+    <string name="no_hay_artefactos">No contiene artefactos dentro de la habitacion</string>
+    <string name="prender_todo">Prender todo</string>
+    <string name="artefactos_apagados">Todos los artefactos se han apagado</string>
+    <string name="artefactos_encendidos">Todos los artefactos se han encendido</string>
+    <string name="agregar_foto">Agregar foto</string>
+    <string name="cambio_idioma">El idioma ha sido cambiado correctamente</string>
+    <string name="cambio_idioma_ingles">Language changed successfully</string>
+    <!-- Para traducir-->
+    <string name="mensaje_ventana">Diga la orden a procesar</string>
+    <string name="no_orden">No hay ordenes para interpretar</string>
+    <string name="reiterar_comando">Reiterar comando</string>
+    <string name="faltan_palabras">Faltan palabras para interpretar</string>
+    <string name="faltan_o_sobran">Sobran o faltan palabras para interpretar</string>
+    <string name="no_existe_habitacion">Habitacion inexistente</string>
+    <string name="habitaciones_vacias">No hay habitaciones cargadas</string>
+    <string name="comando_invalido">Comando invalido</string>
+    <string name="muchas_palabras">Muchas palabras, repita orden</string>
+    <string name="se_encendio">El artefacto fue encendido</string>
+    <string name="se_apago">El artefacto fue apagado</string>
+    <string name="estaba_encendido">El artefacto se encuentra encendido</string>
+    <string name="estaba_apagado">El artefacto se encuentra apagado</string>
+
+</resources>
